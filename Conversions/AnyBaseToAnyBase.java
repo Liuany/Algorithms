@@ -22,6 +22,7 @@ public class AnyBaseToAnyBase {
     static final int MAXIMUM_BASE = 36;
 
     public static void main(String[] args) {
+        System.out.println("测试下修改！");
         Scanner in = new Scanner(System.in);
         String n;
         int b1, b2;
